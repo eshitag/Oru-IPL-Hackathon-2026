@@ -1,5 +1,7 @@
-IPL: The Hidden Economy of Pressure 🏏📊
-Executive Summary
+# IPL: The Hidden Economy of Pressure 🏏📊
+
+## Executive Summary
+
 In professional T20 cricket, traditional metrics like "Season Averages" often hide the most critical truth: Not all runs are created equal. This project introduces a "Pressure Engine" that quantifies the psychological and statistical "tax" applied to players when the Required Run Rate (RRR) spikes.
 
 By merging ball-by-ball IPL data (2008–2025) with real-time match outcomes, I identified the "Ice-Kings"—players who defy the league-wide 47% increase in wicket probability to deliver outsized returns when the game is on the line.
