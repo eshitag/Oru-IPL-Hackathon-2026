@@ -18,7 +18,7 @@ Visualization: Tableau (Dynamic Parameters, Dual-Axis Donut Charts, Highlight Ac
 Data Source: 300,000+ rows of IPL ball-by-ball delivery data.
 
 ## 🧠 The Narrative Flow (End-to-End)
-1. The Engineering: Defining the "Pressure Zone"
+1. Defining the "Pressure Zone"
 The project started in Jupyter Notebook, where I moved beyond basic stats to engineer a dynamic environment.
 
 The RRR Engine: Calculated the Required Run Rate for every delivery in the second innings.
@@ -27,20 +27,18 @@ The Pressure Flag: Developed a parameter-driven logic to segment play into "Norm
 
 Metric Engineering: Created custom calculations for Wicket Probability (Risk) and Clutch Strike Rate (Efficiency).
 
-2. The Dashboard Story: A 4-Stage Breakdown
+2. The Dashboard Story
 The Tableau dashboard is designed as a "Scouting Tool" for franchises:
 
-The Hook (Pressure Exposure): My analysis reveals that only ~8% of the match (at a threshold of 14 RRR) constitutes high-pressure play. This proves that a tiny fraction of the game determines the champion.
+Pressure Exposure: My analysis reveals that only ~8% of the match (at a threshold of 14 RRR) constitutes high-pressure play. This proves that a tiny fraction of the game determines the champion.
 
-The Physics (Wicket Probability): As shown in the dynamic KPI block, once the "Panic Button" is pressed, the Wicket Probability jumps to 8.91%—nearly double the league average baseline.
+Wicket Probability: As shown in the dynamic KPI block, once the "Panic Button" is pressed, the Wicket Probability jumps to 8.91%—nearly double the league average baseline.
 
 The Level-Up Scatter Box: This is the heart of the analysis.
 
-X-Axis: Normal Strike Rate (The baseline).
-
-Y-Axis: Clutch Strike Rate (The performance under fire).
-
-The Diagonal Line: Represents the "Survival Line." Players above the line are statistical anomalies who score faster when the stakes are higher.
+  X-Axis: Normal Strike Rate (The baseline).
+  Y-Axis: Clutch Strike Rate (The performance under fire).
+  "Players shown as outliers are statistical anomalies who score faster when the stakes are higher."
 
 The Clutch-Impact Gap: A specialized leaderboard ranking the "Ice-Kings." The dashboard highlights players like Odean Smith and Glenn Phillips, who show massive performance gains in the death overs.
 
