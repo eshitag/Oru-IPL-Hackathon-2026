@@ -61,9 +61,9 @@ Identify the Gems: Look at the top-right quadrant of the Scatter Box to find pla
 ## 📂 Repository Structure
 notebooks/: Contains the .ipynb file for data cleaning, merging, and RRR calculation.
 
-## data/: Sample of the tableau_ready_ipl.csv (Fact & Dimension tables).
+data/: Sample of the tableau_ready_ipl.csv (Fact & Dimension tables).
 
-## visuals/: Dashboard screenshots and Loom video link.
+visuals/: Dashboard screenshots and Loom video link.
 
 💬 Conclusion
 This project moves data analytics from descriptive (what happened) to diagnostic (why it happened). It provides a framework for franchises to stop buying "runs" and start buying "resilience."
