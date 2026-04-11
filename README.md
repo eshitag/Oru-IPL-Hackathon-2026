@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/8a92f657-8c0b-47f0-8f84-7c419d4d659b
+
 # IPL: The Hidden Economy of Pressure 🏏📊
 
 ## Executive Summary
@@ -5,6 +9,9 @@
 In professional T20 cricket, traditional metrics like "Season Averages" often hide the most critical truth: Not all runs are created equal. This project introduces a "Pressure Engine" that quantifies the psychological and statistical "tax" applied to players when the Required Run Rate (RRR) spikes.
 
 By merging ball-by-ball IPL data (2008–2025) with real-time match outcomes, I identified the "Ice-Kings"—players who defy the league-wide 47% increase in wicket probability to deliver outsized returns when the game is on the line.
+
+https://github.com/user-attachments/assets/caa2aed3-a839-4eb7-b104-a64fe3c0752e
+
 
 ## 🛠️ The Tech Stack
 Data Processing: Python (Pandas, NumPy)
