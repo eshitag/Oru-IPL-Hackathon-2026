@@ -1,5 +1,4 @@
 # IPL: The Hidden Economy of Pressure 🏏📊 
-## ML Implementation: The AI Tactical Command Center 🏏📊
 
 ## Executive Summary
 
@@ -74,6 +73,10 @@ models/: Serialized .pkl files for the Random Forest model and Team Encoders.
 app.py: The Streamlit Tactical Command Center source code.
 
 data/: clutch_players.csv — The curated roster of high-impact specialists.
+
+# ML Implementation: The AI Tactical Command Center 🏏📊
+
+<img width="200" height="100" alt="download" src="https://github.com/user-attachments/assets/72e8d6b1-8b5f-4622-9fdc-6bab8e7f3642" />
 
 ## The Predictive Brain (Machine Learning)
 
