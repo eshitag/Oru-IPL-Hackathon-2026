@@ -76,7 +76,8 @@ data/: clutch_players.csv — The curated roster of high-impact specialists.
 
 # ML Implementation: The AI Tactical Command Center 🏏📊
 
-<img width="200" height="100" alt="download" src="https://github.com/user-attachments/assets/72e8d6b1-8b5f-4622-9fdc-6bab8e7f3642" />
+<img width="1152" height="648" alt="download" src="https://github.com/user-attachments/assets/2ba427a8-8743-4cd9-ae56-be109cdc5579" />
+
 
 ## The Predictive Brain (Machine Learning)
 
